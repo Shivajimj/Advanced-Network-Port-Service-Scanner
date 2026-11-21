@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Generated reports
+reports/
+logs/
+
+# Backup files
+*_backup.py
+scanner_phase*.py
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unrelated PostScript files
+/argparse
+/csv
+/errno
+/ipaddress
+/json
+/os
+/socket
